@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    background-color: #f0f2f5;
+}
+.all {
+    padding-top: 72px;
+    padding-bottom: 112px;
+}
+#slider {
+    width: 980px;
+    height: 500px;
+    padding: 20px 0;
+    margin: 0 auto;
+}
+.logo {
+    
+}
+.facebook {
+    display: inline-block;
+    float: left; 
+    padding-right: 32px;
+    width: 50%;
+    padding-top: 112px;
+    padding-bottom: 12px;
+}
+.facebook-img {
+    width: 301px;
+    height: 106px;
+}
+.introduce {
+    font-size: 46px;
+    color: #1877f2;
+    font-weight: 1000;
+}
+.sad {
+    font-weight: 300;
+    font-size: 28px;
+    width: 500px;
+    padding-left: 31px;
+}
+.input {
+    width: 400px;
+    height: 346px;
+    float: right; 
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 24px;
+    margin-top: 40px;
+}
+.modal-input {
+    font-size: 17px;
+    width: 340px;
+    padding: 14px 16px;
+    border-radius: 6px;
+    border: 1px #dddfe2 solid;
+    color: #1d2129;
+    margin-top: 14px;
+}
+.login {
+    font-size: 20px;
+    display: block;
+    margin-left: 29px;
+    border: none;
+    background-color: #1877f2;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.forgot-password {
+    text-decoration: none;
+}
+.line {
+    text-align: center;
+    opacity: 0.7;
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.new-accout {
+    display: block;
+    text-align: center;
+    width: 180px;
+    height: 48px;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 6px;
+    border: none;
+    background-color: #42b72a;
+    padding: 0 16px;
+    margin: auto;
+
+}
+.text {
+    padding-top: 27px;
+}
+.one {
+    color: black;
+    font-weight: 900;
+    text-decoration: none;
+}
